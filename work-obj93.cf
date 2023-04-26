@@ -1,0 +1,7 @@
+v 4
+file . "TrafficController_TB.vhd" "c995f987f00f9121e927e527d33a0b9f331ee7e6" "20230426120516.592":
+  entity trafficcontroller_tb at 1( 0) + 0 on 13;
+  architecture behaviour of trafficcontroller_tb at 8( 100) + 0 on 14;
+file . "TrafficController.vhd" "a5ff587a243233cda899bcefdf4e116b3ba97e63" "20230426120510.993":
+  entity trafficcontroller at 1( 0) + 0 on 11;
+  architecture behaviour of trafficcontroller at 14( 467) + 0 on 12;
